@@ -115,7 +115,7 @@ try:
         '추세선 차수',
         min_value=1,
         max_value=5,
-        value=1
+        value=3
     )
 
     # 산점도 점 크기 조절
