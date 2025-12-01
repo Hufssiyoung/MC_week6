@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from scipy.stats import gaussian_kde
 import os
 
-file_path = '/data'
+file_path = 'data'
 
 @st.cache_data
 def load_data(file_path):
